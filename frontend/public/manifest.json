@@ -1,0 +1,12 @@
+{
+  "short_name": "Motion",
+  "name": "Motion Project",
+  "icons": [
+    {
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ce2222",
+  "background_color": "#ffffff"
+}
