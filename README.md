@@ -1,5 +1,5 @@
 # Screenshots
-![Homepage](screenshots/home_page.png "Home Page")
+![Homepage](screenshots/home_page.PNG "Home Page")
 
 ![Signup demo](screenshots/signup_firststep.gif "Sign Up Demo")
 
