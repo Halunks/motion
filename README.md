@@ -1,4 +1,4 @@
-# Screenshots
+# Impressions
 ![Homepage](screenshots/home_page.PNG "Home Page")
 
 ![Signup demo](screenshots/signup_firststep.gif "Sign Up Demo")
